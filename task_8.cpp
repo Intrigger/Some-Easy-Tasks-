@@ -19,9 +19,7 @@ int main(){
     string str = "";
 
     while (getline(fin, str)){
-
         cout << str[1];
-
     }
 
 
